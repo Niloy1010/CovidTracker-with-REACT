@@ -1,0 +1,35 @@
+.map{
+    height: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 16px;
+    width: 80%;
+    box-shadow: 0 0 18px -4px rgba(0,0,0,0.5);
+    text-align: center;
+    margin-bottom: 50px;
+}
+.map .leaflet-container {
+    height: 100% !important;
+}
+.mapBtn{
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 20px;
+}
+.cnfrm{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+.dth{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+
+}
+.recov{
+
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
