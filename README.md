@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Real time Covid Tracker with Maps and charts
 
 ## Available Scripts
 
