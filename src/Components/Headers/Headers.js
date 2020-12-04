@@ -1,10 +1,12 @@
-import React from 'react'
+import React from "react";
 
-const Headers= () => {
-    return (
-        <div>
-            <h1>Covid Tracker 2020</h1>
-        </div>
-    )
-}
+import styles from "./Headers.css";
+
+const Headers = () => {
+  return (
+    <div>
+      <h1>Covid Tracker 2020</h1>
+    </div>
+  );
+};
 export default Headers;

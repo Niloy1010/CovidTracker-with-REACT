@@ -1,11 +1,17 @@
-.container2{
-    display: flex;
-    justify-content: center;
-    width: 600px;
-    margin: auto;
+.container2 {
+  display: flex;
+  justify-content: center;
+
+  width: 600px;
+  margin: auto;
 }
-@media (max-width:1300px) {
-    .container2{
-        display: block;
-    }
+@media (max-width: 1300px) {
+  .container2 {
+    width: 700px;
+  }
+}
+@media (max-width: 1300px) {
+  .container2 {
+    display: block;
+  }
 }

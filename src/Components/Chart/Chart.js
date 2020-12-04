@@ -36,10 +36,7 @@ const Chart = ({ data: { confirmed, recovered, deaths }, country }) => {
       }}
     />
   ) : (
-    <h3>
-      The live api for is having an issue. Please Choose a particular Country to
-      see results instead
-    </h3>
+    "The live api is having an issue. Please Choose a particular Country"
   );
   console.log(confirmed, deaths, recovered);
 
